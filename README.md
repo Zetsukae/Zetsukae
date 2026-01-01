@@ -76,7 +76,7 @@ Projet de site web pour un **serveur Minecraft** (désormais fermé).
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://gitmystat.vercel.app/user?theme=catppuccin&username=Zetsukae)
+![GitHub Stats](https://gitmystat.vercel.app/api?username=Zetsukae&theme=catppuccin)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zetsukae&layout=compact&theme=tokyonight&hide_border=true)
 

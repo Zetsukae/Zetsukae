@@ -9,10 +9,14 @@ Je construis des projets pour apprendre, tester des idées et améliorer mes com
 
 ## 🏷️ Badges
 
-![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-Learning-E34F26?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning%20(Focus)-F7DF1E?logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-Learning%20(with%20AI)-1572B6?logo=css3&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open--Source-Yes-2ea44f)
 ![Learning](https://img.shields.io/badge/Status-Learning%20by%20doing-blue)
+
+> J’apprends encore **HTML, JavaScript et CSS**.  
+> Mon focus principal est le **JavaScript**, et je m’aide de l’**IA**, surtout pour le CSS, afin de progresser plus efficacement.
 
 ---
 

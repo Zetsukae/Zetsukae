@@ -77,8 +77,8 @@ Projet de site web pour un **serveur Minecraft** (désormais fermé).
 ## 📊 GitHub Stats
 
 <p float="left">
-  <img src="https://gitmystat.vercel.app/api?username=Zetsukae&theme=catppuccin" width="48%">
-  <img src="https://gitmystat.vercel.app/api/top-langs/?username=Zetsukae&theme=catppuccin&layout=compact" width="48%">
+  <img src="https://gitmystat.vercel.app/user?theme=catppuccin&username=Zetsukae" width="48%">
+  <img src="https://gitmystat.vercel.app//top?theme=catppuccin&username=Zetsukae" width="48%">
 </p>
 
 ---

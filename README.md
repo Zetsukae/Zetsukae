@@ -52,10 +52,7 @@ Application open-source pour regarder des épisodes d’anime (VF / VOSTFR).
 
 ### 🛠️ **LMSV – BetterDiscord Plugin**
 Plugin BetterDiscord permettant de quitter **plus de 100 serveurs Discord en un clic**.  
-Projet utilitaire orienté gain de temps.
-
-### 🚪 **InstantLeaveMultipleServersVanilla**
-Alternative plus simple pour quitter rapidement plusieurs serveurs Discord.
+Projet utilitaire orienté gain de temps. Il exsite une version vanilla que je déconseille car elle est peu être un danger aux utilisateurs.
 
 ---
 

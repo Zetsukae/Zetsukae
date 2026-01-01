@@ -1,9 +1,9 @@
-# 👋 Salut, moi c’est **Zetsukae**
+# 👋 Hi, I’m **Zetsukae**
 
 ✨ *I love nostalgia.*
 
-Développeur web passionné par l’expérimentation, l’open-source et les projets utiles (ou juste fun).  
-Je construis des projets pour apprendre, tester des idées et améliorer mes compétences, parfois avec l’aide de **l’IA** quand ça fait sens.
+A web developer passionate about experimentation, open-source, and useful (or just fun) projects.  
+I build projects to learn, test ideas, and improve my skills — sometimes with the help of **AI** when it makes sense.
 
 ---
 
@@ -15,62 +15,63 @@ Je construis des projets pour apprendre, tester des idées et améliorer mes com
 ![Open Source](https://img.shields.io/badge/Open--Source-Yes-2ea44f)
 ![Learning](https://img.shields.io/badge/Status-Learning%20by%20doing-blue)
 
-> J’apprends encore **HTML, JavaScript et CSS**.  
-> Mon focus principal est le **JavaScript**, et je m’aide de l’**IA**, surtout pour le CSS, afin de progresser plus efficacement.
+> I’m still learning **HTML, JavaScript, and CSS**.  
+> My main focus is **JavaScript**, and I use **AI**, especially for CSS, to progress more efficiently.
 
 ---
 
-## 🧠 À propos de **Uniware**
+## 🧠 About **Uniware**
 
-> **Uniware** est une **entreprise fictive**, créée uniquement comme cadre d’entraînement.
+> **Uniware** is a **fictional company**, created purely as a training framework.
 
-Elle me permet de :
-- structurer mes projets comme dans un contexte réel,
-- expérimenter des concepts (site web, navigateur, branding),
-- améliorer ma rigueur et mon organisation.
+It allows me to:
+- structure my projects as if in a real-world context,
+- experiment with concepts (website, browser, branding),
+- improve my rigor and organization.
 
 ---
 
-## 🚀 Projets principaux
+## 🚀 Main Projects
 
-### 🌐 **Uniware (projet fictif)**
-- Site web : **https://uniware.site**
-- Projet d’entraînement autour du développement web et de l’expérimentation
+### 🌐 **Uniware (fictional project)**
+- Website: **https://uniware.site**
+- Training project focused on web development and experimentation
 
 ### 🌟 **Uniware-Glint**
-Navigateur web **open-source** développé dans le cadre du projet Uniware.  
-Objectif : expérimentation, personnalisation et apprentissage.
+An **open-source** web browser developed as part of the Uniware project.  
+Goal: experimentation, customization, and learning.
 
 ---
 
 ### 📺 **Streamix**
-Application open-source pour regarder des épisodes d’anime (VF / VOSTFR).
+An open-source application to watch anime episodes (FR dub / sub).
 
-> 🤖 **Note** : je m’aide **parfois de l’IA** sur ce projet (idées, structure, optimisation), tout en gardant un contrôle humain sur le code final.
+> 🤖 **Note**: I **sometimes use AI** on this project (ideas, structure, optimization), while keeping human control over the final code.
 
 ---
 
 ### 🛠️ **LMSV – BetterDiscord Plugin**
-Plugin BetterDiscord permettant de quitter **plus de 100 serveurs Discord en un clic**.  
-Projet utilitaire orienté gain de temps. Il exsite une version vanilla que je déconseille car elle est peu être un danger aux utilisateurs.
+A BetterDiscord plugin that lets you leave **over 100 Discord servers in one click**.  
+A utility project focused on saving time.  
+A vanilla version exists, but I do not recommend it as it may be a potential risk for users.
 
 ---
 
 ### 🌐 **CubixNetwork**
-Projet de site web pour un **serveur Minecraft** (désormais fermé).
+Website project for a **Minecraft server** (now closed).
 
-- ✅ Le **site web et le projet** m’appartiennent
-- ⚠️ La **map du serveur** ne m’appartenait pas
+- ✅ The **website and the project** belong to me
+- ⚠️ The **server map** did not belong to me
 
 ---
 
-## 💻 Technologies & compétences
+## 💻 Technologies & Skills
 
 - HTML / CSS / JavaScript  
-- Développement web front-end  
-- Plugins & outils communautaires (Discord / BetterDiscord)  
-- Projets open-source & expérimentaux  
-- Utilisation raisonnée de l’**IA** comme outil d’aide
+- Front-end web development  
+- Community plugins & tools (Discord / BetterDiscord)  
+- Open-source & experimental projects  
+- Thoughtful use of **AI** as a support tool
 
 ---
 
@@ -83,14 +84,14 @@ Projet de site web pour un **serveur Minecraft** (désormais fermé).
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact Me
 
-- 🌐 Site : https://uniware.site  
-- 💬 GitHub : Issues / Discussions sur les repos
+- 🌐 Website: https://uniware.site  
+- 💬 GitHub: Issues / Discussions on repositories
 
 ---
 
-## ⭐ Merci d’être passé !
+## ⭐ Thanks for stopping by!
 
-Ce GitHub est avant tout un espace d’apprentissage et d’expérimentation.  
-Si un projet te plaît, n’hésite pas à laisser une ⭐ ou à me suivre !
+This GitHub is first and foremost a space for learning and experimentation.  
+If you like a project, feel free to leave a ⭐ or follow me!

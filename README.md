@@ -10,7 +10,6 @@ Je construis des projets pour apprendre, tester des idées et améliorer mes com
 ## 🏷️ Badges
 
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Open Source](https://img.shields.io/badge/Open--Source-Yes-2ea44f)
 ![Learning](https://img.shields.io/badge/Status-Learning%20by%20doing-blue)

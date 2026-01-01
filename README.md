@@ -45,7 +45,6 @@ Goal: experimentation, customization, and learning.
 
 ### 📺 **Streamix**
 An open-source application to watch anime episodes (FR dub / sub).
-<img src="https://gitmystat.vercel.app/repo?theme=catppuccin&username=Zetsukae&repo=streamix" width="48%">
 > 🤖 **Note**: I **sometimes use AI** on this project (ideas, structure, optimization), while keeping human control over the final code.
 
 ---

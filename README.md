@@ -43,7 +43,7 @@ Goal: experimentation, customization, and learning.
 
 ---
 
-### 📺 **Streamix**
+### 📺 [**Streamix**](https://streamix.buzz)
 An open-source application to Centralize your streaming sources.
 > 🤖 **Note**: I **sometimes use AI** on this project (ideas, structure, optimization), while keeping human control over the final code.
 

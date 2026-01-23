@@ -37,14 +37,14 @@ It allows me to:
 - Website: **https://uniware.site**
 - Training project focused on web development and experimentation
 
-### 🌟 **Uniware-Glint**
+### 🌟 **Uniware-Glint** (Project DIED. Only the Pre-Alpha is avaible.)
 An **open-source** web browser developed as part of the Uniware project.  
 Goal: experimentation, customization, and learning.
 
 ---
 
 ### 📺 **Streamix**
-An open-source application to watch anime episodes (FR dub / sub).
+An open-source application to Centralize your streaming sources.
 > 🤖 **Note**: I **sometimes use AI** on this project (ideas, structure, optimization), while keeping human control over the final code.
 
 ---

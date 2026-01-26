@@ -1,9 +1,13 @@
 # 👋 Hi, I’m **Zetsukae**
 
-✨ *I love nostalgia.*
+✨ *I have a soft spot for nostalgia.*
 
-A web developer passionate about experimentation, open-source, and useful (or just fun) projects.  
-I build projects to learn, test ideas, and improve my skills — sometimes with the help of **AI** when it makes sense.
+I’m a web developer who likes to **experiment, break things, and learn by doing**.  
+Most of my projects are built to test ideas, improve my skills, or just explore concepts I find interesting.
+
+I’m mainly focused on **JavaScript**, still learning **HTML and CSS**, and I sometimes use **AI as a helper**, not as a replacement, especially when it helps me move forward faster.
+
+I work **exclusively on Linux** 🐧.
 
 ---
 
@@ -11,66 +15,74 @@ I build projects to learn, test ideas, and improve my skills — sometimes with 
 
 ![HTML](https://img.shields.io/badge/HTML-Learning-E34F26?logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning%20(Focus)-F7DF1E?logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-Learning%20(with%20AI)-1572B6?logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Learning-1572B6?logo=css3&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open--Source-Yes-2ea44f)
-![Learning](https://img.shields.io/badge/Status-Learning%20by%20doing-blue)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?logo=linux)
 
-> I’m still learning **HTML, JavaScript, and CSS**.  
-> My main focus is **JavaScript**, and I use **AI**, especially for CSS, to progress more efficiently.
+> I’m still learning the basics and improving step by step.  
+> JavaScript is my main focus, and I try to understand what I write rather than just making things “work”.
 
 ---
 
 ## 🧠 About **Uniware**
 
-> **Uniware** is a **fictional company**, created purely as a training framework.
+> **Uniware** is a **fictional company**, created as a learning framework.
 
-It allows me to:
-- structure my projects as if in a real-world context,
-- experiment with concepts (website, browser, branding),
-- improve my rigor and organization.
+It helps me:
+- structure projects like real-world products,
+- experiment with ideas (websites, apps, branding),
+- work in a more organized and consistent way.
 
 ---
 
 ## 🚀 Main Projects
 
-### 🌐 **Uniware (fictional project)**
+### 🌐 **Uniware** (fictional project)
 - Website: **https://uniware.site**
-- Training project focused on web development and experimentation
+- A long-term training project focused on web development and experimentation
 
-### 🌟 **Uniware-Glint** (Project DIED. Only the Pre-Alpha is avaible.)
-An **open-source** web browser developed as part of the Uniware project.  
-Goal: experimentation, customization, and learning.
+---
+
+### 🌟 **Uniware-Glint**
+*(Project discontinued — Pre-Alpha only)*
+
+An **open-source experimental web browser** created as part of Uniware.  
+Main goal: learning, experimentation, and customization.
 
 ---
 
 ### 📺 [**Streamix**](https://streamix.buzz)
-An open-source application to Centralize your streaming sources.
-> 🤖 **Note**: I **sometimes use AI** on this project (ideas, structure, optimization), while keeping human control over the final code.
+An **open-source app** to centralize streaming sources in one place.
+
+> 🤖 *Note*: I sometimes use AI for ideas, structure, or optimization, while keeping full control over the final result.
 
 ---
 
 ### 🛠️ **LMSV – BetterDiscord Plugin**
-A BetterDiscord plugin that lets you leave **over 100 Discord servers in one click**.  
-A utility project focused on saving time.  
-A vanilla version exists, but I do not recommend it as it may be a potential risk for users.
+A BetterDiscord plugin that lets you leave **100+ Discord servers in one click**.  
+Built as a utility to save time.
+
+- A vanilla version exists  
+- Not recommended, as it may pose risks for users
 
 ---
 
 ### 🌐 **CubixNetwork**
 Website project for a **Minecraft server** (now closed).
 
-- ✅ The **website and the project** belong to me
-- ⚠️ The **server map** did not belong to me
+- ✅ Website and project were made by me  
+- ⚠️ The server map was not mine
 
 ---
 
-## 💻 Technologies & Skills
+## 💻 Technologies & Interests
 
 - HTML / CSS / JavaScript  
 - Front-end web development  
-- Community plugins & tools (Discord / BetterDiscord)  
+- Linux environment  
 - Open-source & experimental projects  
-- Thoughtful use of **AI** as a support tool
+- Community tools (Discord / BetterDiscord)  
+- Using AI **as a tool**, not a shortcut
 
 ---
 
@@ -83,14 +95,14 @@ Website project for a **Minecraft server** (now closed).
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 - 🌐 Website: https://uniware.site  
-- 💬 GitHub: Issues / Discussions on repositories
+- 💬 GitHub: issues & discussions on repositories
 
 ---
 
-## ⭐ Thanks for stopping by!
+## ⭐ Thanks for stopping by
 
-This GitHub is first and foremost a space for learning and experimentation.  
-If you like a project, feel free to leave a ⭐ or follow me!
+This GitHub is mainly a **learning space**.  
+If something helps you or catches your interest, feel free to leave a ⭐ or follow along.

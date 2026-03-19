@@ -44,8 +44,8 @@ It helps me:
 ---
 
 ### 🌟 [**Zetsukae.com**](https://zetsukae.com)
-An **open-source experimental web browser** created as part of Uniware.  
-Main goal: learning, experimentation, and customization.
+My personnal website, that's here where I post anything! Like news, notes, and more...
+You should check it.
 
 ---
 

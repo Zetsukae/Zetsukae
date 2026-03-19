@@ -57,7 +57,7 @@ An **open-source app** to centralize streaming sources in one place.
 ---
 
 ### 🎮 [**Zetsukae Launcher**](https://github.com/Zetsukae/ZetsukaeLauncher)
-An **open-source app** to centralize my apps! You can use it for you personnal Launcher (You can add non-official apps).
+An **open-source app** to centralize my apps! You can use it for your personnal Launcher (You can add non-official apps).
 
 ---
 

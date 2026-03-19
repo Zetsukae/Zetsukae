@@ -56,6 +56,11 @@ An **open-source app** to centralize streaming sources in one place.
 
 ---
 
+### 🎮 [**Zetsukae Launcher**](https://github.com/Zetsukae/ZetsukaeLauncher)
+An **open-source app** to centralize our apps! You can use it for you personnal Launcher (You can add non-official apps).
+
+---
+
 ### 🛠️ **LMSV – BetterDiscord Plugin** 
 *(Plugin is no longer compatible)*
 A BetterDiscord plugin that lets you leave **100+ Discord servers in one click**.  

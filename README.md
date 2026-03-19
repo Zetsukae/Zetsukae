@@ -37,15 +37,13 @@ It helps me:
 
 ## 🚀 Main Projects
 
-### 🌐 **Uniware** (fictional project)
+### 🌐 [**Uniware**](https://github.com/Zetsukae/uniware.site) (fictional project)
 - Website: **https://uniware.site**
 - A long-term training project focused on web development and experimentation
 
 ---
 
-### 🌟 **Uniware-Glint**
-*(Project discontinued — Pre-Alpha only)*
-
+### 🌟 [**Zetsukae.com**](https://zetsukae.com)
 An **open-source experimental web browser** created as part of Uniware.  
 Main goal: learning, experimentation, and customization.
 
@@ -58,7 +56,8 @@ An **open-source app** to centralize streaming sources in one place.
 
 ---
 
-### 🛠️ **LMSV – BetterDiscord Plugin**
+### 🛠️ **LMSV – BetterDiscord Plugin** 
+*(Plugin is no longer compatible)*
 A BetterDiscord plugin that lets you leave **100+ Discord servers in one click**.  
 Built as a utility to save time.
 
@@ -97,8 +96,8 @@ Website project for a **Minecraft server** (now closed).
 
 ## 📫 Contact
 
-- 🌐 Website: https://uniware.site  
-- 💬 GitHub: issues & discussions on repositories
+- 🌐 Website: https://zetsukae.com
+- 💬 GitHub: issues & discussions on repositories or via contact@zetsukae.com
 
 ---
 

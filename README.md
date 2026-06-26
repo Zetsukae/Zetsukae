@@ -1,6 +1,6 @@
-# 👋 Hi, I’m **Zetsukae**
+# Yo, I’m **Zetsukae**
 
-✨ *I have a soft spot for nostalgia.*
+*I have a soft spot for nostalgia.*
 
 I’m a web developer who likes to **experiment, break things, and learn by doing**.  
 Most of my projects are built to test ideas, improve my skills, or just explore concepts I find interesting.
@@ -24,7 +24,7 @@ I work **exclusively on Linux** 🐧.
 
 ---
 
-## 🧠 About **Uniware**
+## About [**Uniware**](https://github.com/Zetsukae/uniware.site)
 
 > **Uniware** is a **fictional company**, created as a learning framework.
 
@@ -35,62 +35,51 @@ It helps me:
 
 ---
 
-## 🚀 Main Projects
+##  Main Projects
 
-### 🌐 [**Uniware**](https://github.com/Zetsukae/uniware.site) (fictional project)
-- Website: **https://uniware.site**
-- A long-term training project focused on web development and experimentation
+###  [**Pluberry**](https://github.com/Zetsukae/Pluberry)
+- Website: **www.Pluberry.com**
+- A long-term training project, Electron Web App to centralize Streaming website :)
+>  *Note*: I sometimes use AI for ideas, structure, or optimization, while keeping full control over the final result.
 
 ---
 
-### 🌟 [**Zetsukae.com**](https://zetsukae.com)
+###  [**Zetsukae.com**](https://zetsukae.com)
 My personnal website, that's here where I post anything! Like news, notes, and more...
 You should check it.
 
 ---
 
-### 📺 [**Streamix**](https://streamix.buzz)
-An **open-source app** to centralize streaming sources in one place.
-
-> 🤖 *Note*: I sometimes use AI for ideas, structure, or optimization, while keeping full control over the final result.
+###  [**Zetsukae Launcher**](https://github.com/Zetsukae/ZetsukaeLauncher)
+An **open-source app** to centralize my apps! You can use it for your personnal Launcher (You can add non-official apps & it detects your Steam Games).
 
 ---
 
-### 🎮 [**Zetsukae Launcher**](https://github.com/Zetsukae/ZetsukaeLauncher)
-An **open-source app** to centralize my apps! You can use it for your personnal Launcher (You can add non-official apps).
+###  [**The Amazing Digital Game**](https://github.com/Zetsukae/TheAmazingDigitalGame) 
+Free & OpenSource Game Project based on **TADC**
+feel free to try it, or even modify it :)
 
 ---
 
-### 🛠️ **LMSV – BetterDiscord Plugin** 
-*(Plugin is no longer compatible)*
-A BetterDiscord plugin that lets you leave **100+ Discord servers in one click**.  
-Built as a utility to save time.
-
-- A vanilla version exists  
-- Not recommended, as it may pose risks for users
-
----
-
-### 🌐 **CubixNetwork**
+###  [**CubixNetwork**](https://github.com/Zetsukae/cubixnetwork)
 Website project for a **Minecraft server** (now closed).
 
-- ✅ Website and project were made by me  
-- ⚠️ The server map was not mine
+- [-] Website and project were made by me  
+- [!] The server map was not mine
 
 ---
 
-## 💻 Technologies & Interests
+##  Technologies & Interests
 
 - HTML / CSS / JavaScript  
 - Front-end web development  
 - Linux environment  
-- Open-source & experimental projects  
-- Community tools (Discord / BetterDiscord)  
+- Open-source & experimental projects   
 - Using AI **as a tool**, not a shortcut
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p float="left">
   <img src="https://gitmystat.vercel.app/user?theme=catppuccin&username=Zetsukae" width="48%">
@@ -99,10 +88,10 @@ Website project for a **Minecraft server** (now closed).
 
 ---
 
-## 📫 Contact
+##  Contact
 
-- 🌐 Website: https://zetsukae.com
-- 💬 GitHub: issues & discussions on repositories or via contact@zetsukae.com
+-  Website: https://zetsukae.com
+-  GitHub: issues & discussions on repositories or via contact@zetsukae.com
 
 ---
 

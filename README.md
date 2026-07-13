@@ -7,7 +7,7 @@ Most of my projects are built to test ideas, improve my skills, or just explore 
 
 I’m mainly focused on **JavaScript**, still learning **HTML and CSS**, and I sometimes use **AI as a helper**, not as a replacement, especially when it helps me move forward faster.
 
-I work **exclusively on Linux** 🐧.
+I work **on Linux** but use a **Hackintosh** too.
 
 ---
 

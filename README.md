@@ -40,6 +40,7 @@ It helps me:
 ###  [**Pluberry**](https://github.com/Zetsukae/Pluberry)
 - Website: **www.Pluberry.com**
 - A long-term training project, Electron Web App to centralize Streaming website :)
+- You can find the Plugins Repository [here](https://github.com/Zetsukae/Plugins-Pluberry)!
 >  *Note*: I sometimes use AI for ideas, structure, or optimization, while keeping full control over the final result.
 
 ---

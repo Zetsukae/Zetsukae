@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./Joker-Persona-5.webm" width="100%" alt="Joker">
+  <img src="./Joker-Persona-5.webp" width="100%" alt="Joker">
 </p>
